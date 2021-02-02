@@ -26,7 +26,7 @@ The final state of the file should be as follows (replacing my information with 
 ```
 # Exercise-01c-Twine-Story
 
-Exercise for MSCH-C220, 27 January 2021
+Exercise for MSCH-C220, 1 February 2021
 
 An interactive-fiction game engine, composed in Twine
 
@@ -44,5 +44,5 @@ None
 
 ## Created by
 
-Jason Francis
+Jalen Slutzky
 ```
